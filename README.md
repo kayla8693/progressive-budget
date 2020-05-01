@@ -37,7 +37,8 @@ SO THAT my account balance is accurate when I am traveling
 ## Usage
 <p id='usage'></p>
 
-- Navigate to ___ and enter any deposits and withdrawals that you wish!
+- Navigate to https://progressive-budget-20.herokuapp.com/ 
+- Enter any deposits and withdrawals that you wish!
 
 ## License
 <p id='license'></p>
