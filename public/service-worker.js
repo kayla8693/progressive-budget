@@ -5,7 +5,9 @@ const FILES_TO_CACHE = [
   "/index.js",
   "/db.js",
   "./dist/app.js",
-  "./dist/dbComp.js"
+  "./dist/dbComp.js",
+  "/icons/icon-192x192.png",
+  "/icons/icon-512x512.png"
 
 ];
 
