@@ -1,6 +1,7 @@
 {
   "short_name": "Budget App",
   "name": "Budget App",
+  "description": "",
   "icons": [
     {
       "src": "/icons/icon-192X192.png",
